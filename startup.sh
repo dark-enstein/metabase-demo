@@ -2,7 +2,8 @@
 
 #Download metabase jar
 echo "1) Dowloading Metabase v0.44.6..."
-wget https://downloads.metabase.com/v0.44.6/metabase.jar
+#wget https://downloads.metabase.com/v0.44.6/metabase.jar
+curl https://downloads.metabase.com/v0.44.6/metabase.jar -O metabase.jar
 echo Download complete...
 
 #Step II

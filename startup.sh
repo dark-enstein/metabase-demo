@@ -8,6 +8,11 @@ echo Download complete...
 
 #Step II
 #build docker image
+sudo docker build . -t ayobama
+
+#Step III
+#run docker image
+sudo docker run -p 3000:3000 ayobama
 
 #Step III
 #push docker image to docker hub

@@ -1,4 +1,4 @@
-FROM openjdk:8u92-alpine
+FROM openjdk:11.0.1-jdk-sid
 
 WORKDIR /
 

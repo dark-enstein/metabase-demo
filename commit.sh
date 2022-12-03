@@ -6,4 +6,4 @@ read cm
 git add .
 git commit -m "$cm"
 
-git push origiN
+git push origin

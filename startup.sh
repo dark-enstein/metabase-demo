@@ -8,6 +8,6 @@ echo Download complete...
 #Step II
 #build docker image
 
-Step III
+#Step III
 #push docker image to docker hub
 

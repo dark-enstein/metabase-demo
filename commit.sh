@@ -5,4 +5,5 @@ read cm
 
 git add .
 git commit -m "$cm"
-git push
+
+git push origiN

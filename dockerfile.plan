@@ -1,0 +1,4 @@
+#get a docker base image (java base image version 8)
+#copy metabase jar to location in docker image
+#expose port 3000
+#use the CMD directive to start the application java -jar metabase.jar
